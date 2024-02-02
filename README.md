@@ -14,7 +14,7 @@ The mission of the IPFS Communications Working Group is to collaborate on and ov
 - To foster faster growth of the ecosystem and adoption of the technology through buzz and the dissemination of noteworthy content.
 
 ## Conduct
-- Meetings will be open to all who adhere to the IPFS Community Code of Conduct.
+- Meetings will be open to all who adhere to the [IPFS Community Code of Conduct](https://ipfs.fyi/coc).
 - Meetings will be facilitated by the Chair.
 - Meetings will occur weekly at a regular time, day, and location unless otherwise communicated.
 - The IPFS Forums will be the primary channel where announcements, discussions, and meta communications about the working group will happen.
