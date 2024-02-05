@@ -17,6 +17,14 @@ Does anyone have anything they wanted added to the agenda today?
     - Bluesky – Followers: 825
     - LinkedIn – Followers: 160
     - Warpcast – Followers: 49
+  - Community (Last 7 Days)
+    - Discord
+      - Weekly Visitors: 201 (+11%)
+      - Weekly Communicators: 9 (-25%)
+    - Forums
+      - User Visits: 142 (+13%)
+      - Pageviews: 32.2K (-21%)
+      - Daily Engaged Users: 5 (-25%)
 - What communication needs are there in the next 1-4 weeks?
 
 ## Misc Notes
