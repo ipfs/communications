@@ -10,10 +10,8 @@ Does anyone have anything they wanted added to the agenda today?
     - [Main Site](https://plausible.io/ipfs.tech) - 36.5K (-31%)
     - [Blog](https://plausible.io/blog.ipfs.tech) - 3.4K (-24%)
     - [Docs](https://plausible.io/docs.ipfs.tech) - 39.1K (-23%)
-   - Social Media (Last 7 Days)
-    - [X (Twitter)](https://twitter.com/IPFS) - Followers: 84.3K
-      - New Followers: 81 (-4%)
-      - Link Clicks: 17 (-74%)
+  - Social Media (Last 7 Days)
+    - [X (Twitter)](https://twitter.com/IPFS) - Followers: 84,376
     - [Bluesky](https://bsky.app/profile/ipfs.tech) – Followers: 825
     - [LinkedIn](https://www.linkedin.com/company/ipfstech/) – Followers: 160
     - [Warpcast](https://warpcast.com/ipfs) – Followers: 49
