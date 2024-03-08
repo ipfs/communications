@@ -19,10 +19,11 @@ Does anyone have anything they wanted added to the agenda today?
     - [Discord](https://discord.gg/vj7qWuAyHY)
       - Weekly Visitors: 201 (+11%)
       - Weekly Communicators: 9 (-25%)
-    - [Forums](https://discuss.ipfs.tech/)
+    - [Forums](https://discuss.ipfs.tech/admin?period=weekly)
       - User Visits: 142 (+13%)
       - Pageviews: 32.2K (-21%)
-      - Daily Engaged Users: 5 (-25%)
+      - Posts:
+      - Topics: 
 - What communication needs are there in the next 1-4 weeks?
 
 ## Misc Notes
